@@ -1,5 +1,5 @@
 <h1 > Welcome ! </h1>
-<p> Welcome to my profile! I'm a driven 16-year-old Brazilian programmer who embarked on a journey into the world of coding at the age of 14. From that moment on, I've been captivated by the endless possibilities that programming offers to shape the future.
+<p> Welcome to my profile! I'm a driven 17-year-old Brazilian programmer who embarked on a journey into the world of coding at the age of 14. From that moment on, I've been captivated by the endless possibilities that programming offers to shape the future.
 
 My passion lies in harnessing the power of technology to automate processes and solve real-world challenges. I am proud of my ability to develop Python, JavaScript, HTML and CSS solutions. In addition, I am also in the field of cybersecurity and OSINT.</p>
 <div align="center">
